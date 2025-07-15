@@ -1,8 +1,10 @@
 <h1 align="center">Hey 👋, I'm Reem Elsayyed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=460&lines=CS+Student+%F0%9F%92%BB+at+MIU;Cybersecurity+%F0%9F%94%92+%7C+Software+%F0%9F%92%BB+%7C+AI+%F0%9F%A7%96;AWS+Cloud+Builder+%E2%9C%A8+%2B+Serverless+Projects;Open+to+Internships+and+Tech+Challenges" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=600&lines=CS+Student+%F0%9F%92%BB+at+MIU;Cybersecurity+%F0%9F%94%92+%7C+Software+%F0%9F%92%BB+%7C+AI+%F0%9F%A7%96;AWS+Cloud+Builder+%E2%9C%A8+%2B+Serverless+Projects;Open+to+Internships+and+Tech+Challenges" alt="Typing SVG" />
 </p>
+
 
 ---
 
