@@ -1,49 +1,52 @@
 <h1 align="center">Hey 👋, I'm Reem Elsayyed</h1>
 
 <p align="center">
-💻 CS Student @ Misr International University <br>
-🔐 Interested in Software, Cybersecurity & AI <br>
-🌟 Eager to build, learn, and explore technology
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=460&lines=CS+Student+%F0%9F%92%BB+at+MIU;Cybersecurity+%F0%9F%94%92+%7C+Software+%F0%9F%92%BB+%7C+AI+%F0%9F%A7%96;AWS+Cloud+Builder+%E2%9C%A8+%2B+Serverless+Projects;Open+to+Internships+and+Tech+Challenges" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm a 2nd year Computer Science student at Misr International University with a passion for exploring tech from every angle — whether it's writing secure backend logic, training beginner students, or building full-stack apps.
+I'm a 2nd year Computer Science student at Misr International University with a passion for building secure, smart, and scalable tech.
 
-My academic experience includes:
+My academic background covers:
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- Operating Systems
 - Database Systems
+- Operating Systems
 
-I enjoy solving real-world problems and learning through projects, collaboration, and hands-on experimentation.
+And I’ve applied this in real-world projects using **cloud-native tools**, especially **AWS**, where I’ve built full serverless pipelines, file encryption systems, and voice-based apps.
+
+I love tackling challenges that require creativity, collaboration, and cloud ✨
 
 ---
 
 ### 🚀 Projects I’ve Worked On
 
-- 🔐 **Secure File Scanner** using AWS Lambda, KMS & S3
-- 🍽️ **Restaurant Management System** in Java & C++
-- 🎉 **Event Management System** (Java OOP)
-- 🕹️ Game dev + OS enhancement mini-projects
-- 🌐 **Full-Stack Website** using HTML, CSS, JS, Node.js, Express, MongoDB
+- 🔐 **Secure File Scanner** — scans encrypted S3 uploads using AWS Lambda + KMS  
+- 🗣️ **Talking Avatar App** — sentiment analysis + speech with AWS Comprehend & Polly  
+- 🌄 **Auto Thumbnail Generator** — S3 + Lambda + image processing  
+- 🍽️ **Restaurant Management System** — Java & C++  
+- 🎉 **Event Management System** — Java OOP  
+- 🕹️ Game development + OS enhancement tasks  
+- 🌐 **Full-Stack Web App** — Node.js, Express, MongoDB, HTML/CSS/JS
 
 ---
 
-### 🛠️ Tech Stack
+### ☁️ Cloud & DevOps Experience
 
-<p>
-  <img src="https://img.shields.io/badge/PYTHON-3676AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+- ✅ **AWS Lambda, S3, KMS, SNS, Polly, Comprehend**  
+- ☁️ Built **event-driven serverless architectures**  
+- 🔐 Designed **secure IAM roles and KMS-based encryption**  
+- 📤 Worked with **object storage, file processing, and logging via CloudWatch**
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,nodejs,express,mongodb,mysql,aws,git" />
 </p>
 
 ---
@@ -59,15 +62,15 @@ I enjoy solving real-world problems and learning through projects, collaboration
 
 ### 📬 Contact Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/reemelsayyed" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:reemelsayyed@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-_Always learning, always building._ 🚀
+_Always learning. Always building. Always cloud-ready._ ☁️🚀
