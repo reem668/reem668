@@ -75,4 +75,4 @@ I love tackling challenges that require creativity, collaboration, and cloud ✨
 
 ---
 
-_Always learning. Always building. Always cloud-ready._ ☁️🚀
+_Always learning. Always building. ☁️🚀
